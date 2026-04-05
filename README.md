@@ -1,30 +1,99 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ayman</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BB00&random=false&width=435&lines=Always+learning+new+things+;using+software+as+a+solution+for+every+problem;software+engineer+" alt="Typing SVG" /></a>
-<h3 align="center">About me</h3>
-<img align="right" alt="coding" width="400" srv="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedaymen&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedaymen" /> </p>
 
-- 👨‍💻 I'm Software Development Engineer **student**
+<h3 align="center">🚀 Software Engineer | AI Enthusiast | Problem Solver</h3>
 
-- 💻 I am a competitive programmer at **Codeforces, Atcoder, Leetcode, Codechef**
-
-- 🏫 I am a student in [Faculty of Computers & Informatics at Suez Canal University.](https://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/)
-
-- 📫 How to reach me **hamada2002134@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed aymen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed aymen" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mohamed aymen salem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mohamed aymen salem" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mohamedaymen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamedaymen" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohammedaymen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammedaymen" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BB00&center=true&vCenter=true&width=500&lines=Always+learning+new+things+🚀;Turning+ideas+into+real+solutions+💡;AI+%26+Software+Engineering+🔥" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedaymen&show_icons=true&locale=en&layout=compact" alt="mohammedaymen" /></p>
+<img align="right" alt="coding" width="350" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedaymen&show_icons=true&locale=en" alt="mohammedaymen" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedaymen&" alt="mohammedaymen" /></p>
+- 🎓 Computer Science Graduate (AI Specialization)  
+- 💡 Passionate about **AI, Machine Learning & Software Development**  
+- 🧠 Competitive Programmer  
+- ⚡ I love building systems that solve real-world problems  
+
+---
+
+### 🏆 Competitive Programming
+
+<p align="left">
+  
+- 🔹 Codeforces  
+- 🔹 AtCoder  
+- 🔹 LeetCode  
+- 🔹 CodeChef  
+
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  
+<img src="https://skillicons.dev/icons?i=cpp,python,java,git,linux,tensorflow,opencv,pandas" />
+
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/mohamed aymen" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://codeforces.com/profile/mohamedaymen" target="blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" height="40"/>
+</a>
+
+<a href="https://www.leetcode.com/mohammedaymen" target="blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" height="40"/>
+</a>
+
+<a href="mailto:hamada2002134@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedaymen&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedaymen&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedaymen&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### ⚡ Quote I Believe In
+
+> "Code is not just code... it's a solution to someone's problem."
+
+---
+
+### 🔥 What I'm Currently Doing
+
+- 🚀 Building AI-powered applications  
+- 📱 Working on Mobile + ML integration  
+- 📈 Improving problem-solving skills daily  
+
+---
+
+<p align="center">
+  💛 Thanks for visiting my profile!
+</p>
