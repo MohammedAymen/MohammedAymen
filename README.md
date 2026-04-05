@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Software Engineer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BB00&center=true&vCenter=true&width=500&lines=Always+learning+new+things+🚀;Turning+ideas+into+real+solutions+💡;AI+%26+Software+Engineering+🔥" />
+  <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 ---
