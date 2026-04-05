@@ -3,9 +3,8 @@
 <h3 align="center">🚀 Software Engineer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"\>
+  <img alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
-
 ---
 
 <img align="right" alt="coding" width="350" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
