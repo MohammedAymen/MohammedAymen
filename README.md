@@ -45,7 +45,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/mohamed aymen" target="blank">
+<a href="www.linkedin.com/in/mohamed-aymen-750236225" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
