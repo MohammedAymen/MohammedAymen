@@ -71,9 +71,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedaymen&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammedaymen&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ### ⚡ Quote I Believe In
