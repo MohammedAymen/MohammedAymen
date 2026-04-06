@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedaymen&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedaymen&theme=tokyonight&cache_bust=1" />
 </p>
 
 <p align="center">
